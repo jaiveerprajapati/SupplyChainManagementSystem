@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-contract SupplyChain {
+contract SupplyChainContract {
     
     event Added(uint256 index);
     
