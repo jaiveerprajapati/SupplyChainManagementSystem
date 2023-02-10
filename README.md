@@ -7,5 +7,7 @@ Increased Accountability: The smart contract provides a clear and transparent re
 Enhanced Security: The decentralized nature of blockchain technology enhances the security of the supply chain, making it more difficult for malicious actors to interfere with the flow of goods.
 
 Product Tracking: The smart contract allows for tracking of each product in the supply chain, from its origin to its final destination.
+
 Security: The smart contract is secured by the decentralized nature of blockchain technology, providing a secure platform for room reservations and payment processing.
+
 Transparency: All transactions and changes in the smart contract are recorded on the blockchain, providing a transparent and auditable record.
